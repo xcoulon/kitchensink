@@ -1,6 +1,6 @@
 kitchensink: Example Using Multiple Java EE 6 Technologies Deployed as a WAR
 ============================================================================
-Author: Pete Muir
+Author: Pete Muir, Red Hat
 
 What is it?
 -----------
